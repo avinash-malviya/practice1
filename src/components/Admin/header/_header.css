@@ -1,0 +1,25 @@
+.fixed-header {
+  width: 100%;
+  position: fixed;
+  background-color: gray;
+  /* padding: 5px 0; */
+  color: white;
+  top: 0;
+}
+
+/* .navbar {
+  background-color: gray;
+  position: fixed;
+  z-index: 999;
+  position: sticky;
+  top: 0;
+} */
+
+.logo {
+  width: 130px;
+  height: 40px;
+  object-fit: contain;
+  display: block;
+}
+.container {
+}

@@ -1,0 +1,10 @@
+.fixed-footer {
+  width: 100%;
+  position: fixed;
+  background-color: gray;
+  padding: 15px 0;
+  color: white;
+  bottom: 0;
+}
+.navbar {
+}
